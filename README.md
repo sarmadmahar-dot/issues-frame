@@ -4,9 +4,9 @@
 
 This repository provides a structured legal dataset developed to support research and development in **Artificial Intelligence (AI), Natural Language Processing (NLP), Machine Learning (ML), and Legal AI applications**.
 
-The dataset comprises different categories of legal documents representing various stages of judicial proceedings, including pleadings, applications, judicial orders, and final judgments.
+The dataset comprises different legal documents including pleadings, applications, judicial orders, and final judgments.
 
-It is intended to facilitate research in legal document classification, semantic search, information retrieval, legal question answering, case summarization, and Retrieval-Augmented Generation (RAG) systems.
+It is intended to facilitate research in legal document.
 
 In addition to the dataset, this repository provides the associated published research paper, Python source code, required libraries, and trained machine learning models to support research reproducibility and further development.
 
